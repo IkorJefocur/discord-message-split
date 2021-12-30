@@ -1,0 +1,4 @@
+__pycache__
+Pipfile.lock
+__main__.spec
+build
